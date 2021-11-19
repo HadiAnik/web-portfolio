@@ -49,58 +49,33 @@ section {
 .section3 {
     background-image: url(../images/exp-bg.png);
     background-repeat: no-repeat;
-
+    background-position: left;
 }
 .section3 h1 {
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .section3d1 {
-    margin-left: 180px;
-    padding: 5px 5px 5px 15px;
-    width: 500px;
-    height: 300px;
-    border: 1px solid blue;
-    border-left: 4px solid purple;
-    box-shadow: 3px;
+.single-exprience {
+    box-shadow: 15px 15px 40px gray;
+    height: 70%;
+    background-color: white;
 }
-.section3d1 h4 {
-  color: darkorange;
+.single-exprience p {
+    font-size: 12px;
+    padding-right: 15px;
 }
-.section3d1 p {
-    text-align: justify;
+#full-stack {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#baby-web {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer {
+    text-align: center;
     font-size: 12px;
 }
-#section3d2 {
-    position: relative;
-    left: 600px;
-    bottom: 312px;
-} */
+
+
